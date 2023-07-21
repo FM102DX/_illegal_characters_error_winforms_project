@@ -1,0 +1,15 @@
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\bin\Debug\net6.0-windows\RifdcOrmWithExample.exe
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\bin\Debug\net6.0-windows\RifdcOrmWithExample.deps.json
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\bin\Debug\net6.0-windows\RifdcOrmWithExample.runtimeconfig.json
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\bin\Debug\net6.0-windows\RifdcOrmWithExample.dll
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\bin\Debug\net6.0-windows\RifdcOrmWithExample.pdb
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.csproj.AssemblyReference.cache
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.AssemblyInfoInputs.cache
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.AssemblyInfo.cs
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.csproj.CoreCompileInputs.cache
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.dll
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\refint\RifdcOrmWithExample.dll
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.pdb
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\RifdcOrmWithExample.genruntimeconfig.cache
+C:\Develop\RifdcDotnet6\RifdcOrmWithExample\RifdcOrmWithExample\obj\Debug\net6.0-windows\ref\RifdcOrmWithExample.dll
